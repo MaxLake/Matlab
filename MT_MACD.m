@@ -24,7 +24,7 @@ DEA = EMA(DIFF, Mlen);
 
 MACDbar = 2*(DIFF-DEA);
 
-%% Plot
+%% Plot »­Í¼
 hold on;
 
 plot(DIFF,'k');
